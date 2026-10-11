@@ -115,4 +115,5 @@ vibeflow.json
 .parcel-cache/
 .turbo/
 *.tsbuildinfo
+.vibeflow-preview.hash
 
